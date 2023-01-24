@@ -1,0 +1,4 @@
+TOP LEVEL LISTDIR
+listdir_CustomJob.txt
+aiplatform-2023-01-24-16:21:24.914-aiplatform_custom_trainer_script-0.1.tar.gz
+env_vars_CustomJob.txt
