@@ -1,0 +1,4 @@
+NOTES
+
+GCS FUSE does not work else we would see it in: listdir_CustomJob.txt
+Use GCS client library to read and write
